@@ -14,4 +14,4 @@ Task Description:-
 
 6. Connect the SQL database to the web application launched in the Kubernetes cluster
 
-Lets's understand some basics:-
+Please go through the files to understand the code and its applications.
